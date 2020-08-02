@@ -1,0 +1,41 @@
+{
+  "name": "sage",
+  "version": "1.0.0",
+  "description": "[![Packagist](https://img.shields.io/packagist/vpre/roots/sage.svg?style=flat-square)](https://packagist.org/packages/roots/sage) [![devDependency Status](https://img.shields.io/david/dev/roots/sage.svg?style=flat-square)](https://david-dm.org/roots/sage#info=devDependencies) [![Build Status](https://img.shields.io/travis/roots/sage.svg?style=flat-square)](https://travis-ci.org/roots/sage)",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "abbrev": "^1.1.1",
+    "amdefine": "^1.0.1",
+    "ansi-colors": "^1.1.0",
+    "append-buffer": "^1.0.2",
+    "archy": "^1.0.0",
+    "are-we-there-yet": "^1.1.5",
+    "array-each": "^1.0.1",
+    "array-initial": "^1.1.0",
+    "array-last": "^1.3.0",
+    "array-slice": "^1.1.0",
+    "array-sort": "^1.0.0",
+    "async-foreach": "^0.1.3",
+    "block-stream": "^0.0.9",
+    "buffer-equal": "^1.0.0",
+    "clone-buffer": "^1.0.0",
+    "cloneable-readable": "^1.1.3",
+    "console-control-strings": "^1.1.0",
+    "default-compare": "^1.0.0",
+    "default-resolution": "^2.0.0",
+    "delegates": "^1.0.0",
+    "detect-file": "^1.0.0",
+    "flagged-respawn": "^1.0.1",
+    "fs-mkdirp-stream": "^1.0.0",
+    "fstream": "^1.0.11",
+    "gaze": "^1.1.3",
+    "globule": "^1.2.1",
+    "has-unicode": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,38 @@
+{
+  "entry": {
+    "main": [
+      "./scripts/main.js",
+      "./styles/main.scss"
+    ],
+    "customizer": [
+      "./scripts/customizer.js"
+    ],
+    "owl.carousel.min":[
+      "./styles/owl.carousel.min.css"
+    ],
+    "owl.theme.default.min":[
+      "./styles/owl.theme.default.min.css"
+    ],
+    "animate.min":[
+      "./styles/animate.min.css"
+    ],
+    "jquery-3.5.1.min":[
+      "./scripts/jquery-3.5.1.min.js"
+    ],
+    "owl.carousel.min":[
+      "./scripts/owl.carousel.min.js"
+    ],
+    "script":[
+      "./scripts/script.js"
+    ],
+  },
+  "publicPath": "/app/themes/sage",
+  "devUrl": "http://example.test",
+  "proxyUrl": "http://localhost:3000",
+  "cacheBusting": "[name]_[hash:8]",
+  "watch": [
+    "app/**/*.php",
+    "config/**/*.php",
+    "resources/views/**/*.php"
+  ]
+}
